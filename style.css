@@ -1,0 +1,49 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("images/campus-scene.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+nav h3 {
+    font-size: 20px;
+}
+nav {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    padding: 10px; 
+    color: #302832;
+}
+button {
+    border: none;
+    border-radius: 30px;
+    padding: 14px 25px;
+    background-color: #286b75;
+}   
+.buttons {
+    text-align: center;
+    margin-top: 25px;
+}
+.buttons a {
+     text-decoration: none;
+     border-radius: 30px;
+     padding: 12px 25px;
+     color: white;
+}
+.script {
+    text-align: center;
+    padding: 65px 20px 30px;
+    margin: 25px 0;
+}
+.script h1 {
+    font-size: 45px;
+    margin: 25px;
+}
+.script p {
+    font-size: 18px;
+    justify-content: center;
+}
+
